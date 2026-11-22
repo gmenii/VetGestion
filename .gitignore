@@ -1,0 +1,17 @@
+# Base de datos local
+*.db
+*.sqlite
+*.sqlite3
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Configuración del editor
+.vscode/
+.idea/
